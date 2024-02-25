@@ -85,5 +85,33 @@ A comprehensive guide to transition from a beginner to an expert in web developm
 ### Day 30: Review & Polish
 - **Project**: Finalize your capstone project, polish the UI/UX, debug, and deploy it.
 
+# 30-Day Web Development Plan
+
+A step-by-step guide to transition from a beginner to an expert in web development, focusing on hands-on projects and key learning objectives for each day.
+
+| Day | Focus Area | Learning Objectives | Project |
+| --- | ---------- | ------------------- | ------- |
+| 1-2 | HTML Fundamentals | HTML syntax, elements, tags, attributes | Create a simple webpage |
+| 3-4 | CSS Fundamentals | CSS selectors, properties, box model, layout (flexbox) | Style your HTML webpage |
+| 5 | Responsive Design | Media queries and responsive design principles | Make your webpage responsive |
+| 6 | Webpage Project | - | Create a landing page for a product |
+| 7 | Review & Enhance | - | Enhance your landing page with advanced CSS |
+| 8-9 | JavaScript Basics | Variables, data types, conditionals, loops, functions | Build a calculator or to-do list app |
+| 10-11 | DOM Manipulation | Selecting elements, changing content/styles, event listeners | Enhance your app with interactive features |
+| 12 | Advanced JavaScript | ES6+ features (arrow functions, promises, async/await) | Fetch and display data from a public API |
+| 13 | Version Control with Git | Basic Git commands, repositories, branching, merging | Initialize a Git repository for your projects |
+| 14 | Review & Deploy | - | Deploy your projects |
+| 15-16 | React Basics | Components, props, state, lifecycle methods | Convert projects into React |
+| 17-18 | Connecting Front-End to Back-End | RESTful services, fetching data from an API | Create a simple blog platform frontend |
+| 19-20 | Node.js and Express Basics | Setting up a server, routing, middleware | Build a backend for your blog platform |
+| 21 | Database Integration | Basics of MongoDB | Integrate a database with your blog platform |
+| 22-23 | Authentication | Implementing authentication (JWT) | Add user authentication to your blog platform |
+| 24-25 | Advanced Front-End | State management with Redux or Context API | Refactor your React project |
+| 26 | Testing | Introduction to testing (Jest and React Testing Library) | Write tests for your React components |
+| 27 | Progressive Web Apps (PWAs) | Making your web application a PWA | Convert your project into a PWA |
+| 28-29 | Final Project | - | Start a capstone project that solves a real-world problem |
+| 30 | Review & Polish | - | Finalize, polish, debug, and deploy your capstone project |
+
 ## Continuous Learning
-Becoming an expert in web development is an ongoing journey. Continue learning new frameworks, libraries, and best practices. Engage with the community, contribute to open source projects, and never stop building. The key to mastery is consistent practice and perpetual learning.
+Continue to explore new technologies, contribute to open source, and build projects beyond this 30-day plan to deepen your expertise in web development.
+
